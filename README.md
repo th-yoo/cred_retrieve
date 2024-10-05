@@ -1,4 +1,4 @@
-# project
+# cred\_retrieve
 **cred_retrieve** is a Python package that provides a flexible way to retrieve credentials from various sources, including KeePassXC and custom credential providers. 
 
 ## Installation
