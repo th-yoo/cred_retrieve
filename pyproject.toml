@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "cred_retrieve"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Python package that provides a flexible way to retrieve credentials from various sources, including KeePassXC and custom credential providers."
 authors = ["th yoo <taihyungyoo@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/th-yoo/project"
+homepage = "https://github.com/th-yoo/cred_retrieve"
 keywords = ["secrets", "credential", "password", "password storage", "KeePassXC", "dotenv"]
 
 [tool.poetry.dependencies]
